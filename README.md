@@ -2,7 +2,7 @@
 ### Version 1.0.0  -  [Changelog](CHANGELOG.md)
 
 Famous Font Families (further just **FFF**) is a small lib of widely used font families nowadays in Web Development. There is the only usage of **WOFF** font formats in **FFF** which is the recommended format of the font by **W3C** and fully supported in all modern browsers (**IE9+**). At this initial version, **FFF** contains 7 popular font families with their different types.
-Feel free to use **FFF** this in your projects.
+Feel free to use **FFF** in your projects.
 
 &nbsp;
 ## Installation
