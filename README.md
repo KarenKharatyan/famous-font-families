@@ -23,4 +23,5 @@ Pull requests are welcome.
 &nbsp;
 ## License & Copyrights
 **FFF** is open and free to use
+&nbsp;
 © Karen Kharatyan, Web Developer
