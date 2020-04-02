@@ -1,0 +1,409 @@
+@font-face {
+  font-family: "Lato";
+  src: url("../../fonts/lato/lato-regular.woff");
+}
+
+@font-face {
+  font-family: "Lato Italic";
+  src: url("../../fonts/lato/lato-regular-italic.woff");
+}
+
+@font-face {
+  font-family: "Lato Thin";
+  src: url("../../fonts/lato/lato-thin.woff");
+}
+
+@font-face {
+  font-family: "Lato Thin Italic";
+  src: url("../../fonts/lato/lato-thin-italic.woff");
+}
+
+@font-face {
+  font-family: "Lato Light";
+  src: url("../../fonts/lato/lato-light.woff");
+}
+
+@font-face {
+  font-family: "Lato Light Italic";
+  src: url("../../fonts/lato/lato-light-italic.woff");
+}
+
+@font-face {
+  font-family: "Lato Bold";
+  src: url("../../fonts/lato/lato-bold.woff");
+}
+
+@font-face {
+  font-family: "Lato Bold Italic";
+  src: url("../../fonts/lato/lato-bold-italic.woff");
+}
+
+@font-face {
+  font-family: "Lato Black";
+  src: url("../../fonts/lato/lato-black.woff");
+}
+
+@font-face {
+  font-family: "Lato Black Italic";
+  src: url("../../fonts/lato/lato-black-italic.woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../../fonts/roboto/roboto-regular.woff");
+}
+
+@font-face {
+  font-family: "Roboto Italic";
+  src: url("../../fonts/roboto/roboto-regular-italic.woff");
+}
+
+@font-face {
+  font-family: "Roboto Thin";
+  src: url("../../fonts/roboto/roboto-thin.woff");
+}
+
+@font-face {
+  font-family: "Roboto Thin Italic";
+  src: url("../../fonts/roboto/roboto-thin-italic.woff");
+}
+
+@font-face {
+  font-family: "Roboto Light";
+  src: url("../../fonts/roboto/roboto-light.woff");
+}
+
+@font-face {
+  font-family: "Roboto Light Italic";
+  src: url("../../fonts/roboto/roboto-light-italic.woff");
+}
+
+@font-face {
+  font-family: "Roboto Medium";
+  src: url("../../fonts/roboto/roboto-medium.woff");
+}
+
+@font-face {
+  font-family: "Roboto Medium Italic";
+  src: url("../../fonts/roboto/roboto-medium-italic.woff");
+}
+
+@font-face {
+  font-family: "Roboto Bold";
+  src: url("../../fonts/roboto/roboto-bold.woff");
+}
+
+@font-face {
+  font-family: "Roboto Bold Italic";
+  src: url("../../fonts/roboto/roboto-bold-italic.woff");
+}
+
+@font-face {
+  font-family: "Roboto Black";
+  src: url("../../fonts/roboto/roboto-black.woff");
+}
+
+@font-face {
+  font-family: "Roboto Black Italic";
+  src: url("../../fonts/roboto/roboto-black-italic.woff");
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("../../fonts/ubuntu/ubuntu-regular.woff");
+}
+
+@font-face {
+  font-family: "Ubuntu Italic";
+  src: url("../../fonts/ubuntu/ubuntu-regular-italic.woff");
+}
+
+@font-face {
+  font-family: "Ubuntu Light";
+  src: url("../../fonts/ubuntu/ubuntu-light.woff");
+}
+
+@font-face {
+  font-family: "Ubuntu Light Italic";
+  src: url("../../fonts/ubuntu/ubuntu-light-italic.woff");
+}
+
+@font-face {
+  font-family: "Ubuntu Medium";
+  src: url("../../fonts/ubuntu/ubuntu-medium.woff");
+}
+
+@font-face {
+  font-family: "Ubuntu Medium Italic";
+  src: url("../../fonts/ubuntu/ubuntu-medium-italic.woff");
+}
+
+@font-face {
+  font-family: "Ubuntu Bold";
+  src: url("../../fonts/ubuntu/ubuntu-bold.woff");
+}
+
+@font-face {
+  font-family: "Ubuntu Bold Italic";
+  src: url("../../fonts/ubuntu/ubuntu-bold-italic.woff");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../../fonts/poppins/poppins-regular.woff");
+}
+
+@font-face {
+  font-family: "Poppins Italic";
+  src: url("../../fonts/poppins/poppins-regular-italic.woff");
+}
+
+@font-face {
+  font-family: "Poppins Thin";
+  src: url("../../fonts/poppins/poppins-thin.woff");
+}
+
+@font-face {
+  font-family: "Poppins Thin Italic";
+  src: url("../../fonts/poppins/poppins-thin-italic.woff");
+}
+
+@font-face {
+  font-family: "Poppins Extra Light";
+  src: url("../../fonts/poppins/poppins-extra-light.woff");
+}
+
+@font-face {
+  font-family: "Poppins Extra Light Italic";
+  src: url("../../fonts/poppins/poppins-extra-light-italic.woff");
+}
+
+@font-face {
+  font-family: "Poppins Light";
+  src: url("../../fonts/poppins/poppins-light.woff");
+}
+
+@font-face {
+  font-family: "Poppins Light Italic";
+  src: url("../../fonts/poppins/poppins-light-italic.woff");
+}
+
+@font-face {
+  font-family: "Poppins Medium";
+  src: url("../../fonts/poppins/poppins-medium.woff");
+}
+
+@font-face {
+  font-family: "Poppins Medium Italic";
+  src: url("../../fonts/poppins/poppins-medium-italic.woff");
+}
+
+@font-face {
+  font-family: "Poppins Semi Bold";
+  src: url("../../fonts/poppins/poppins-semi-bold.woff");
+}
+
+@font-face {
+  font-family: "Poppins Semi Bold Italic";
+  src: url("../../fonts/poppins/poppins-semi-bold-italic.woff");
+}
+
+@font-face {
+  font-family: "Poppins Bold";
+  src: url("../../fonts/poppins/poppins-bold.woff");
+}
+
+@font-face {
+  font-family: "Poppins Bold Italic";
+  src: url("../../fonts/poppins/poppins-bold-italic.woff");
+}
+
+@font-face {
+  font-family: "Poppins Extra Bold";
+  src: url("../../fonts/poppins/poppins-extra-bold.woff");
+}
+
+@font-face {
+  font-family: "Poppins Extra Bold Italic";
+  src: url("../../fonts/poppins/poppins-extra-bold-italic.woff");
+}
+
+@font-face {
+  font-family: "Poppins Black";
+  src: url("../../fonts/poppins/poppins-black.woff");
+}
+
+@font-face {
+  font-family: "Poppins Black Italic";
+  src: url("../../fonts/poppins/poppins-black-italic.woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../../fonts/montserrat/montserrat-regular.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Italic";
+  src: url("../../fonts/montserrat/montserrat-regular-italic.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Thin";
+  src: url("../../fonts/montserrat/montserrat-thin.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Thin Italic";
+  src: url("../../fonts/montserrat/montserrat-thin-italic.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Extra Light";
+  src: url("../../fonts/montserrat/montserrat-extra-light.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Extra Light Italic";
+  src: url("../../fonts/montserrat/montserrat-extra-light-italic.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Light";
+  src: url("../../fonts/montserrat/montserrat-light.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Light Italic";
+  src: url("../../fonts/montserrat/montserrat-light-italic.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Medium";
+  src: url("../../fonts/montserrat/montserrat-medium.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Medium Italic";
+  src: url("../../fonts/montserrat/montserrat-medium-italic.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Semi Bold";
+  src: url("../../fonts/montserrat/montserrat-semi-bold.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Semi Bold Italic";
+  src: url("../../fonts/montserrat/montserrat-semi-bold-italic.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Bold";
+  src: url("../../fonts/montserrat/montserrat-bold.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Bold Italic";
+  src: url("../../fonts/montserrat/montserrat-bold-italic.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Extra Bold";
+  src: url("../../fonts/montserrat/montserrat-extra-bold.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Extra Bold Italic";
+  src: url("../../fonts/montserrat/montserrat-extra-bold-italic.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Black";
+  src: url("../../fonts/montserrat/montserrat-black.woff");
+}
+
+@font-face {
+  font-family: "Montserrat Black Italic";
+  src: url("../../fonts/montserrat/montserrat-black-italic.woff");
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url("../../fonts/proxima-nova/proxima-nova-regular.woff");
+}
+
+@font-face {
+  font-family: "Proxima Nova Thin";
+  src: url("../../fonts/proxima-nova/proxima-nova-thin.woff");
+}
+
+@font-face {
+  font-family: "Proxima Nova Light";
+  src: url("../../fonts/proxima-nova/proxima-nova-light.woff");
+}
+
+@font-face {
+  font-family: "Proxima Nova Bold";
+  src: url("../../fonts/proxima-nova/proxima-nova-bold.woff");
+}
+
+@font-face {
+  font-family: "Proxima Nova Extra Bold";
+  src: url("../../fonts/proxima-nova/proxima-nova-extra-bold.woff");
+}
+
+@font-face {
+  font-family: "Proxima Nova Black";
+  src: url("../../fonts/proxima-nova/proxima-nova-black.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono";
+  src: url("../../fonts/operator-mono/operator-mono-regular.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono Italic";
+  src: url("../../fonts/operator-mono/operator-mono-regular-italic.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono Extra Light";
+  src: url("../../fonts/operator-mono/operator-mono-extra-light.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono Extra Light Italic";
+  src: url("../../fonts/operator-mono/operator-mono-extra-light-italic.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono Light";
+  src: url("../../fonts/operator-mono/operator-mono-light.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono Light Italic";
+  src: url("../../fonts/operator-mono/operator-mono-light-italic.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono Medium";
+  src: url("../../fonts/operator-mono/operator-mono-medium.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono Medium Italic";
+  src: url("../../fonts/operator-mono/operator-mono-medium-italic.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono Bold";
+  src: url("../../fonts/operator-mono/operator-mono-bold.woff");
+}
+
+@font-face {
+  font-family: "Operator Mono Bold Italic";
+  src: url("../../fonts/operator-mono/operator-mono-bold-italic.woff");
+}
