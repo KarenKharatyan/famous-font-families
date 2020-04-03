@@ -4,5 +4,6 @@
     {
         font-family: $name;
         src: url($url) format("woff");
+        font-display: swap;
     }
 }
