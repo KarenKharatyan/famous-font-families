@@ -1,9 +1,18 @@
-@mixin newFont ($name, $url)
+/* new @font-face rule addition could be done so easily and dynamically */
+@mixin newFont ($font, $url, $format: 'woff', $display: swap)
 {
     @font-face
     {
-        font-family: $name;
-        src: url($url) format("woff");
-        font-display: swap;
+        font-family: $font;
+        src: url($url) format($format);
+        font-display: $display;
     }
+}
+
+
+
+/* in your CSS stylesheet, you can add your sequence of font-families faster than ever */
+@mixin font-family ($font, $fallback-1: Lato, $fallback-2: Poppins, $fallback-3: Roboto, $generic: sans-serif)
+{
+    font-family: $font, $fallback-1, $fallback-2, $fallback-3, $generic;
 }
