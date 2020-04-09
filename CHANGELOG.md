@@ -41,7 +41,7 @@ Initial release
 - Poppins (**18**)
 - Montserrat (**18**)
 - Proxima Nova (**6**)
-- Operaator Mono (**10**)
+- Operator Mono (**10**)
 - Font families above with their several types of fonts
 - CSS/SCSS @font-face rules
 - README.md
