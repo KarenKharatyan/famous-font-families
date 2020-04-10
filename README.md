@@ -34,7 +34,7 @@ Pull requests are welcome.
 
 [download-image]: https://img.shields.io/badge/download-v1.3.0-blueviolet.svg
 [download-url]: https://github.com/KarenKharatyan/famous-font-families/archive/master.zip
-[changelog-image]: https://img.shields.io/badge/changelog-md-blue.svg
+[changelog-image]: https://img.shields.io/badge/changelog-md-informational.svg
 [changelog-url]: CHANGELOG.md
 [license-image]: https://img.shields.io/badge/license-none-success.svg
 [license-url]: https://github.com/KarenKharatyan/famous-font-families
