@@ -1,6 +1,6 @@
 # Famous Font Families
 
-> Last Version: 1.3.0
+> Latest Version: 1.3.0
 
 [![download][download-image]][download-url]
 [![license][license-image]][license-url]
