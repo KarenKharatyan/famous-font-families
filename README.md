@@ -1,5 +1,10 @@
 # Famous Font Families
-### Version 1.3.0  -  [Changelog](CHANGELOG.md)
+
+> Last Version: 1.3.0
+
+[![download][download-image]][download-url]
+[![license][license-image]]
+[![changelog][changelog-image]][changelog-url]
 
 Famous Font Families (further just **FFF**) is a small lib of widely used font families nowadays in Web Development. There is only usage of **WOFF** font format in **FFF** which is the recommended format of the font by **W3C** and fully supported in all modern browsers (**IE9+**). At this initial version, **FFF** contains 7 popular font families with their different types.
 Feel free to use **FFF** in your projects.
@@ -22,5 +27,13 @@ Pull requests are welcome.
 
 &nbsp;
 ## License & Copyrights
-**FFF** is open and free to use\
+**FFF** has no license. This is **public**, **open** and **free** to use\
 © Karen Kharatyan, Web Developer
+
+
+
+[download-image]: https://img.shields.io/badge/Download-v1.3.0-blueviolet.svg
+[download-url]: https://github.com/KarenKharatyan/famous-font-families/archive/master.zip
+[changelog-image]: https://img.shields.io/badge/changelog-md-blue.svg
+[changelog-url]: CHANGELOG.md
+[license-image]: https://img.shields.io/badge/license-none-success.svg
